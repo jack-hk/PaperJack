@@ -1,3 +1,3 @@
-module github.com/adityatelange/hugo-PaperMod
+module github.com/jack-hk/portfolio
 
 go 1.12
