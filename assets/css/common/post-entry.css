@@ -93,6 +93,9 @@
 
 .entry-cover img {
     pointer-events: none;
+    box-shadow: 2px 2px 7px #00000014;
+    -webkit-box-shadow: 2px 2px 7px #00000014;
+    -moz-box-shadow: 2px 2px 7px #00000014;
 }
 
 .entry-cover a {
@@ -153,6 +156,9 @@
         margin: 10px;
         max-height: 220px;
         width: auto;
+        box-shadow: 2px 2px 7px #00000014;
+        -webkit-box-shadow: 2px 2px 7px #00000014;
+        -moz-box-shadow: 2px 2px 7px #00000014;
     }
 
     .entry-text {
@@ -174,6 +180,9 @@
 
     .entry-cover img {
         max-width: 100%;
+        box-shadow: 2px 2px 7px #00000014;
+        -webkit-box-shadow: 2px 2px 7px #00000014;
+        -moz-box-shadow: 2px 2px 7px #00000014;
     }
 
     .hideable {
